@@ -1,6 +1,5 @@
 {
-  "rootDirectory": "my-knowledge-base",
   "buildCommand": "npm run docs:build",
   "outputDirectory": "docs/.vitepress/dist",
-  "framework": null
+  "framework": "vitepress"
 }
