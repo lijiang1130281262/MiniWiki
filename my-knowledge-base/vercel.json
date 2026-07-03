@@ -1,5 +1,6 @@
 {
-  "buildCommand": "npx vitepress build docs",
+  "installCommand": "npm install && chmod +x node_modules/.bin/*",
+  "buildCommand": "vitepress build docs",
   "outputDirectory": "docs/.vitepress/dist",
   "framework": null
 }
